@@ -1,0 +1,97 @@
+{
+  "1": {
+    "Bus Number": 103,
+    "From": "Katraj",
+    "To": "Kothrud Depot",
+    "Fare": 25,
+    "First Bus": "7:00",
+    "Last Bus": "21:30",
+    "Frequency": 30,
+    "Ladies Reservation": "Yes"
+  },
+  "2": {
+    "Bus Number": 235,
+    "From": "Katraj",
+    "To": "Kharadi Gaon",
+    "Fare": 30,
+    "First Bus": "7:00",
+    "Last Bus": "21:30",
+    "Frequency": 30,
+    "Ladies Reservation": "No"
+  },
+  "3": {
+    "Bus Number": 291,
+    "From": "Katraj",
+    "To": "Hadapsar",
+    "Fare": 25,
+    "First Bus": "7:00",
+    "Last Bus": "21:30",
+    "Frequency": 30,
+    "Ladies Reservation": "Yes"
+  },
+  "4": {
+    "Bus Number": "43A",
+    "From": "Katraj",
+    "To": "Hinjewadi PH3",
+    "Fare": 40,
+    "First Bus": "7:00",
+    "Last Bus": "21:40",
+    "Frequency": 20,
+    "Ladies Reservation": "Yes"
+  },
+  "5": {
+    "Bus Number": 29,
+    "From": "Swargate",
+    "To": "Alandi",
+    "Fare": 45,
+    "First Bus": "7:00",
+    "Last Bus": "21:35",
+    "Frequency": 25,
+    "Ladies Reservation": "No"
+  },
+  "6": {
+    "Bus Number": 103,
+    "From": "Balaji Nagar",
+    "To": "Swargate",
+    "Fare": 5,
+    "First Bus": "7:00",
+    "Last Bus": "21:50",
+    "Frequency": 10
+  },
+  "7": {
+    "Bus Number": 103,
+    "From": "Swargate",
+    "To": "Deccan Corner",
+    "Fare": 5,
+    "First Bus": "7:00",
+    "Last Bus": "21:50",
+    "Frequency": 10
+  },
+  "8": {
+    "Bus Number": 103,
+    "From": "Deccan Corner",
+    "To": "Vanaz",
+    "Fare": 5,
+    "First Bus": "7:00",
+    "Last Bus": "21:50",
+    "Frequency": 10
+  },
+  "9": {
+    "Bus Number": 103,
+    "From": "Vanaz",
+    "To": "Kothrud Depot",
+    "Fare": 5,
+    "First Bus": "7:00",
+    "Last Bus": "21:50",
+    "Frequency": 10
+  },
+  "10": {
+    "Bus Number": 29,
+    "From": "Kate Colony",
+    "To": "Alandi",
+    "Fare": 5,
+    "First Bus": "7:00",
+    "Last Bus": "21:50",
+    "Frequency": 10
+  },
+  

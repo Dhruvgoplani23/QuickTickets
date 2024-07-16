@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825912203024",
+    "project_id": "quickticket-4e36b",
+    "storage_bucket": "quickticket-4e36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825912203024:android:271a58aacf685c6ced3795",
+        "android_client_info": {
+          "package_name": "com.example.quickticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825912203024-20i2242u9vp4b0fjqk4fihf9l8ef6a5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cwHPN4LoxdQ5kCblhddZYnMls591Hww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825912203024-20i2242u9vp4b0fjqk4fihf9l8ef6a5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

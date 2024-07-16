@@ -1,0 +1,220 @@
+{
+  "1": {
+    "Bus Number": 103,
+    "From": "Katraj",
+    "To": "Kothrud Depot",
+    "Fare": 25,
+    "First Bus": "1899-12-29T23:53:50.000Z",
+    "Last Bus": "1899-12-30T18:08:50.000Z",
+    "Frequency": 30,
+    "Ladies Reservation": "Yes"
+  },
+  "2": {
+    "Bus Number": 235,
+    "From": "Katraj",
+    "To": "Kharadi Gaon",
+    "Fare": 30,
+    "First Bus": "1899-12-30T04:53:50.000Z",
+    "Last Bus": "1899-12-30T17:08:50.000Z",
+    "Frequency": 30,
+    "Ladies Reservation": "No"
+  },
+  "3": {
+    "Bus Number": 291,
+    "From": "Katraj",
+    "To": "Hadapsar",
+    "Fare": 25,
+    "First Bus": "1899-12-30T00:08:50.000Z",
+    "Last Bus": "1899-12-30T18:08:50.000Z",
+    "Frequency": 30,
+    "Ladies Reservation": "Yes"
+  },
+  "4": {
+    "Bus Number": "43A",
+    "From": "Katraj",
+    "To": "Hinjewadi PH3",
+    "Fare": 40,
+    "First Bus": "1899-12-30T00:38:50.000Z",
+    "Last Bus": "1899-12-30T16:38:50.000Z",
+    "Frequency": 20,
+    "Ladies Reservation": "Yes"
+  },
+  "5": {
+    "Bus Number": 29,
+    "From": "Swargate",
+    "To": "Alandi",
+    "Fare": 45,
+    "First Bus": "1899-12-29T23:53:50.000Z",
+    "Last Bus": "1899-12-30T17:13:50.000Z",
+    "Frequency": 25,
+    "Ladies Reservation": "No"
+  },
+  "1A": {
+    "Bus Number": 103,
+    "From": "Balaji Nagar",
+    "To": "Swargate",
+    "Fare": 5
+  },
+  "1B": {
+    "Bus Number": 103,
+    "From": "Swargate",
+    "To": "Deccan Corner",
+    "Fare": 5
+  },
+  "1C": {
+    "Bus Number": 103,
+    "From": "Deccan Corner",
+    "To": "Vanaz",
+    "Fare": 5
+  },
+  "1D": {
+    "Bus Number": 103,
+    "From": "Vanaz",
+    "To": "Kothrud Depot",
+    "Fare": 5
+  },
+  "": {
+    "Bus Number": 29,
+    "From": "Kate Colony",
+    "To": "Alandi",
+    "Fare": 5
+  },
+  "2A": {
+    "Bus Number": 235,
+    "From": "Balaji Nagar",
+    "To": "Swargate",
+    "Fare": 5
+  },
+  "2B": {
+    "Bus Number": 235,
+    "From": "Swargate",
+    "To": "Pune Station",
+    "Fare": 5
+  },
+  "2C": {
+    "Bus Number": 235,
+    "From": "Pune Station",
+    "To": "Yerwada",
+    "Fare": 5
+  },
+  "2D": {
+    "Bus Number": 235,
+    "From": "Yerwada",
+    "To": "Viman Nagar",
+    "Fare": 5
+  },
+  "2E": {
+    "Bus Number": 235,
+    "From": "Viman nagar",
+    "To": "Kharadi Gaon",
+    "Fare": 5
+  },
+  "3A": {
+    "Bus Number": 291,
+    "From": "Gokulnagar",
+    "To": "Kondhwa",
+    "Fare": 5
+  },
+  "3B": {
+    "Bus Number": 291,
+    "From": "Kondhwa",
+    "To": "ABC Farm",
+    "Fare": 5
+  },
+  "3C": {
+    "Bus Number": 291,
+    "From": "ABC Farm",
+    "To": "Ramtekdi",
+    "Fare": 5
+  },
+  "3D": {
+    "Bus Number": 291,
+    "From": "Ramtekdi",
+    "To": "Hadapsar",
+    "Fare": 5
+  },
+  "4A": {
+    "Bus Number": "43A",
+    "From": "Dattanagar",
+    "To": "Vadgaon",
+    "Fare": 5
+  },
+  "4B": {
+    "Bus Number": "43A",
+    "From": "Vadagaon",
+    "To": "Warje",
+    "Fare": 5
+  },
+  "4C": {
+    "Bus Number": "43A",
+    "From": "Warje",
+    "To": "Chandani Chowk",
+    "Fare": 5
+  },
+  "4D": {
+    "Bus Number": "43A",
+    "From": "Chandani Chowk",
+    "To": "Wakad Pul",
+    "Fare": 5
+  },
+  "4E": {
+    "Bus Number": "43A",
+    "From": "Wakad Pul",
+    "To": "I.T Park",
+    "Fare": 5
+  },
+  "4F": {
+    "Bus Number": "43A",
+    "From": "I.T Park",
+    "To": "B.O.M",
+    "Fare": 5
+  },
+  "4G": {
+    "Bus Number": "43A",
+    "From": "B.O.M",
+    "To": "Power House",
+    "Fare": 5
+  },
+  "5A": {
+    "Bus Number": 29,
+    "From": "Meera Society",
+    "To": "Juna Pulgate",
+    "Fare": 5
+  },
+  "5B": {
+    "Bus Number": 29,
+    "From": "Juna Pulgate",
+    "To": "Pune Station",
+    "Fare": 5
+  },
+  "5C": {
+    "Bus Number": 29,
+    "From": "Pune Station",
+    "To": "Yerwada",
+    "Fare": 5
+  },
+  "5D": {
+    "Bus Number": 29,
+    "From": "Yerwada",
+    "To": "Phulenagar",
+    "Fare": 5
+  },
+  "5E": {
+    "Bus Number": 29,
+    "From": "Phulenagar",
+    "To": "AIT college",
+    "Fare": 5
+  },
+  "5F": {
+    "Bus Number": 29,
+    "From": "AIT College",
+    "To": "Mauli Nagar",
+    "Fare": 5
+  },
+  "5G": {
+    "Bus Number": 29,
+    "From": "Mauli Nagr",
+    "To": "Kate Colony",
+    "Fare": 5
+  }
+}
